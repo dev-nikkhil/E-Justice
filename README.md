@@ -15,3 +15,4 @@ Security and privacy are paramount at e-Justice. We employ state-of-the-art encr
 But e-Justice isn't just about filing complaints – it's about fostering trust and transparency in the legal system. We believe in the power of feedback and continuous improvement. That's why we encourage users to provide feedback on their experience, helping us refine and enhance the platform to better serve your needs.
 
 Join the e-Justice revolution today and experience a new era of legal empowerment. Say goodbye to bureaucracy and hello to seamless, accessible justice. With e-Justice, justice is not just a dream – it's a reality.
+
